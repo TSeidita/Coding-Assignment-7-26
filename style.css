@@ -1,0 +1,23 @@
+section{
+    height: 100vh;
+    background-color: #deeffc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    background: white;
+    min-width: 350px;
+
+}
+ul{
+    padding: 5px;
+}
+li{
+    padding: 10px 5px 10px 5px;
+    margin:0px;
+    list-style-type: none;
+}
+li:hover{
+    background-color: #CCCCCC;
+}
